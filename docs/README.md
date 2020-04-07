@@ -1,0 +1,1 @@
+Sphinx documentation. Run make html to produce html documentation for your project. Simply add Sphinx RST formatted documentation to the python doc strings and include modules to include in the produced documentation in the docs/source/index.rst file.
